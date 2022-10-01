@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @riyasvaliyadan
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Linux
+- 👀 I’m trying to solve complicated problems using technology
 
 <!---
 riyasvaliyadan/riyasvaliyadan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
